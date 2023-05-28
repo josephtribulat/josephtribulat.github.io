@@ -2,8 +2,8 @@
     display: none !important;
 }
 .VotingBox__score {
-    display: none;
+    display: none !important;
 }
 .TopButton {
-    display: none;
+    display: none !important;
 }
