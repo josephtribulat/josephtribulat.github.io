@@ -2,4 +2,12 @@ body {
     font-family: 'Futura', 'Lucida Sans Unicode', sans-serif;
     background-color: #f0f0f0; /* This is a light gray color */
     color: #333; /* This is a dark gray color */
+    font-size: 16px; /* Adjust the font size according to your preference */
+}
+
+/* Media query for mobile devices */
+@media only screen and (max-width: 600px) {
+    body {
+        font-size: 14px; /* Decrease the font size for smaller screens */
+    }
 }
