@@ -8,6 +8,6 @@ body {
 /* Media query for mobile devices */
 @media only screen and (max-width: 600px) {
     body {
-        font-size: 18px; /* Decrease the font size for smaller screens */
+        font-size: 22px !important; /* Increase the font size for smaller screens */
     }
 }
